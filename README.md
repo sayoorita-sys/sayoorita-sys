@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**sayoorita-sys/sayoorita-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 #About Me
 Keio University
 Department of Physics and INformation Engineering
