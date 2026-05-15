@@ -1,17 +1,17 @@
-#About Me
-Keio University
-Department of Physics and INformation Engineering
+#About Me\\
+Keio University\\
+Department of Physics and INformation Engineering\\
 
-##interests
--Human Interface
--AI
--Sensors
--Game Technology
--Full-dive systems
+##interests\\
+-Human Interface\\
+-AI\\
+-Sensors\\
+-Game Technology\\
+-Full-dive systems\\
 
-##Skills
--Python (beginner)
--LaTeX
+##Skills\\
+-Python (beginner)\\
+-LaTeX\\
 
-#contact
-34orita@gmail.com
+#contact\\
+34orita@gmail.com\\
