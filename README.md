@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#About Me
+Keio University
+Department of Physics and INformation Engineering
+
+##interests
+-Human Interface
+-AI
+-Sensors
+-Game Technology
+-Full-dive systems
+
+##Skills
+-Python (beginner)
+-LaTeX
+
+#contact
+34orita@gmail.com
